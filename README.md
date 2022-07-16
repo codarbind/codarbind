@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdwahab, @codarbind on Github, @wahabind on Twitter
-- 👀 I’m interested in building robust, secure, scalable NodeJs applications
+- 👀 I’m build robust, secure, scalable NodeJs applications
 - 🌱 Building the world one push at a time
 - 💞️ I’m looking to collaborate on NodeJS projects, especially Open Source ones.
 - 📫 Tweet at me @wahabind
