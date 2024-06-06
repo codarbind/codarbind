@@ -3,7 +3,7 @@
 - 🌱 Building the world one push at a time
 - 💞️ I’m looking to collaborate on NodeJS projects, especially Open Source ones.
 - 📫 Tweet at me @wahabind
-- 🪁 So much excited about Mailhouse, check it out here https://mailhouse.com.ng
+- 🪁 So much excited about Verimerce, check it out here https://verimerce.com
 
 <!---
 codarbind/codarbind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
